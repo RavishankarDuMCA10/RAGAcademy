@@ -1,0 +1,18 @@
+Machine Learning Basics
+
+Machine learning is a subset of artificial intelligence that focuses on the development of computer programs that can access data and use it to learn for themselves. The process of learning begins with observations or data, such as from images, text, or sensor data, and involves identifying patterns in the data to make predictions or decisions without being explicitly programmed to do so.
+
+Key Concepts
+- Training Data: The dataset used to train the machine learning model.
+- Features: The input variables used by the model to make predictions.
+- Labels: The output variable that the model aims to predict.
+- Model: A mathematical representation of the relationship between features and labels.
+- Evaluation: The process of assessing the performance of the trained model.
+
+Types of Machine Learning
+- Supervised Learning: Learning from labeled training data.
+- Unsupervised Learning: Finding hidden patterns in unlabeled data.
+- Reinforcement Learning: Learning through interaction with an environment to maximize a reward signal.
+
+Applications
+Machine learning is used in various fields such as healthcare (diagnosis), finance (fraud detection), marketing (customer segmentation), and autonomous vehicles (object detection).
