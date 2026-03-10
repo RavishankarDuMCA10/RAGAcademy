@@ -14,6 +14,7 @@ dependencies = [
     "langchain-groq>=1.1.2",
     "langchain-openai>=1.1.10",
     "langchain-text-splitters>=1.1.1",
+    "openpyxl>=3.1.5",
     "pandas>=3.0.1",
     "pdfminer>=20191125",
     "pymupdf>=1.27.1",
@@ -22,5 +23,5 @@ dependencies = [
     "python-dotenv>=1.2.2",
     "sentence-transformers>=5.2.3",
     "tiktoken>=0.12.0",
-    "unstructured[docx]>=0.21.5",
+    "unstructured[all-docs,docx]>=0.21.5",
 ]

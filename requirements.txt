@@ -13,3 +13,6 @@ unstructured
 pdfminer
 python-docx
 docx2txt
+pandas
+openpyxl
+unstructured[all-docs]
