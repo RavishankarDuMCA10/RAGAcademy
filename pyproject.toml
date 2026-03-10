@@ -9,6 +9,7 @@ dependencies = [
     "docx2txt>=0.9",
     "faiss-cpu>=1.13.2",
     "ipykernel>=7.2.0",
+    "jq>=1.11.0",
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
     "langchain-groq>=1.1.2",

@@ -16,3 +16,4 @@ docx2txt
 pandas
 openpyxl
 unstructured[all-docs]
+jq
