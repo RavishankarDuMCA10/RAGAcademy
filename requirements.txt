@@ -17,3 +17,4 @@ pandas
 openpyxl
 unstructured[all-docs]
 jq
+matplotlib
