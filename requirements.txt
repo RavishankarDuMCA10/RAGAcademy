@@ -21,3 +21,4 @@ matplotlib
 ## Embeddings
 langchain-huggingface
 sentence-transformers
+langchain-text-splitters
