@@ -22,3 +22,4 @@ matplotlib
 langchain-huggingface
 sentence-transformers
 langchain-text-splitters
+langchain-experimental
