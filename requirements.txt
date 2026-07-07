@@ -23,3 +23,5 @@ langchain-huggingface
 sentence-transformers
 langchain-text-splitters
 langchain-experimental
+ipykernel
+rank_bm25
